@@ -3,3 +3,6 @@
 The folder becomes a git repository and after that git will start tracking all commits in this folder.
 
 
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area only has files that were added into it instead of containing all files in working directory. It is a simulation environment before publishing to the actual repository so that we can test it out.
