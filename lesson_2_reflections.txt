@@ -1,0 +1,5 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+
+The folder becomes a git repository and after that git will start tracking all commits in this folder.
+
+
