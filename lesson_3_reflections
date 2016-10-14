@@ -4,12 +4,17 @@ local?
     When I'm collaborating with other people on a project, I want to use a remote shared repository instead of putting everything on my local. Then everyone can work on the project together instead of making all changes in one local respository and test.
 
 
-======================
-
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    I want to develop a new feature on my local branch first before pushing it to remote repository when the feature is not ready for publishing yet.
+
+
+
+
+
+======================
+
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
